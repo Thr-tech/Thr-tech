@@ -5,9 +5,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/84501170/121711504-4dbf1280-caf8-11eb-9f65-da93bbd8a1d7.jpg" />
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=thr-tech&label=Profile%20views&color=0e75b6&style=flat" alt="thr-tech" />
-    <img src="https://komarev.com/ghpvc/?username=thr-tech&color=blue&style=plastic&label=Visitors+Count" alt="thr-tech" />
+<p align="center">
+    <img src="https://img.shields.io/badge/Visitors-{{ VISITOR_COUNT }}-red?style=for-the-badge&labelColor=red&color=red&label=VISITORS&logo=github&logoColor=green" alt="Visitor Count" />
 </p>
 
 <p align="left"> 
