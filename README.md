@@ -8,7 +8,9 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Visitors-{{ VISITOR_COUNT }}-red?style=for-the-badge&labelColor=red&color=red&label=VISITORS&logo=github&logoColor=green" alt="Visitor Count" />
 </p>
-
+<p align="center">
+   <h8> <img src="https://komarev.com/ghpvc/?username=thr-tech&label=TodayProfile%20views&color=brightgreen&style=flat" alt="thr-tech" /></h8>
+</p>
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=thr-tech" alt="thr-tech" />
